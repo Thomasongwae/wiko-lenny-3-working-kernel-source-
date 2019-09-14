@@ -26,5 +26,5 @@ make -j4 -C $PWD O=$PWD/out ARCH=arm (you can change 4 to the number of jobs you
 
 also you can use this command "make O=out TARGET_ARCH=arm" but this one is slowler compared to the first one
 
-
+for the firmware files you are free to contact me on my email address "thomasongwae8@gmail.com"
 
